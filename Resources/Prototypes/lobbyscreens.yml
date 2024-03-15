@@ -38,6 +38,6 @@
   id: Behonker
   background: /Textures/LobbyScreens/behonker.webp
 
-  type: lobbyBackgrounf
+- type: lobbyBackgrounf
   id: Nukie
   background: /Textures/LobbyScreens/NukiesFinal.jpg
